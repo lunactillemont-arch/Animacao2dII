@@ -9,7 +9,7 @@ Criação do conjunto de animações de um personagem bípede para jogos 2D, des
 GangStar, Jogo de ritmo, em fases (cyphers). O jogo será desenvolvido para PC e distribuído pela Steam, para um público-alvo de jovens e adultos que gostem de jogos ritmo, cultura street e dança.
 
 # Personagem:
-Kai Reyes, apelido “Metronome”, estado unidense Compass Heights é um bairro fictício no lado leste de Port Meridian, uma cidade industrial em decadência. As fábricas fecharam no fim dos anos 90, os prédios ficaram, os empregos não. 18 anos (nasceu em 1991, o jogo se passa em 2009), Família porto-riquenha por parte de pai, afro-americana por parte de mãe.
+Kai Reyes, apelido “Metronome”, estado unidense. Vive em Compass Heights, que é um bairro fictício no lado leste de Port Meridian, uma cidade industrial em decadência. As fábricas fecharam no fim dos anos 90, os prédios ficaram, os empregos não. 18 anos (nasceu em 1991, o jogo se passa em 2009), Família porto-riquenha por parte de pai, afro-americana por parte de mãe.
 
 # Estilo Visual:
 Street, grafitti, cada grupo tem uma cor especifica, o grupo do kai é roxo, estilo inspirado em desenhos rápidos e com movimento.
