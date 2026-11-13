@@ -14,6 +14,7 @@ Kai Reyes, apelido “metronome”, estado unidense Compass Heights é um bairro
 # Estilo Visual:
 Street, grafitti, cada grupo tem uma cor especifica, o grupo do kai é roxo, estilo inspirado em desenhos rápidos e com movimento.
 
+# Animações pedidas
 |**Animação**|**Desenhos**|**Repetição**|**Descrição**|
 |---|---|---|---|
 |Walk|?|Sim|caminhada com groove|
@@ -25,9 +26,9 @@ Street, grafitti, cada grupo tem uma cor especifica, o grupo do kai é roxo, est
 |Die|?|Não|o personagem cai no chão|
 
 # Entregas: 
-Sprite sheet de todos os movimentos.
-GIFs animados de cada ação.
-Arquivos originais de cada animação no formato do Krita ( .kra).
-Estilo gráfico Thumbnail – silhueta.
+- Sprite sheet de todos os movimentos.
+- GIFs animados de cada ação.
+- Arquivos originais de cada animação no formato do Krita ( .kra).
+- Estilo gráfico Thumbnail – silhueta.
 Implementação das animações no Unity 6.
 Repositório no GitHub com o nome animacao2DII, contendo toda a documentação e os arquivos do projeto.
