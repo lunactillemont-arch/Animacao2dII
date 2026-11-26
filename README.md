@@ -20,10 +20,10 @@ Street, grafitti, cada grupo tem uma cor especifica, o grupo do kai é roxo, est
 |Walk|?|Sim|caminhada com groove|
 |Run|?|Sim|passada mais rapida e agressiva|
 |Idle1|?|Sim|groove parado no mesmo lugar|
-|Idle2|?|Não|o personagem faz alguns simbolos de cultura cypher e acaba voltando para idle1|
-|Attack|?|Não|passos de break agressivos|
-|Damage|?|Não|perde equilíbrio| 
-|Die|?|Não|o personagem cai no chão|
+|Idle2|?|Não|o personagem gira e acaba voltando para idle1|
+|Attack|?|Não|passos de dança|
+|Damage|?|Não|olha pra baixo confuso| 
+|Die|?|Não|o personagem faz sinal negativo com a mão e se agacha|
 
 # Entregas: 
 - Sprite sheet de todos os movimentos.
